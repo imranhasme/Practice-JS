@@ -11,7 +11,7 @@
 
 
 
-// lowerCase, upper case and tosting
+// lowerCase, upper case and toString
 var promise = "I will do HARD work, i will be success";
 console.log(promise.toLowerCase())
 
