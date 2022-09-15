@@ -112,3 +112,51 @@ total = total.toFixed(5)
 console.log(total)
 
 
+
+
+//genaral sum------------------[+,-,*,/]
+var price1 = 50;
+var price2 = 39;
+var totalPrice = price1 + price2;
+console.log(totalPrice)
+
+
+
+
+
+
+
+
+//sum modulus/ remainder-------------------
+var  price1 = 50;
+var price2 = 25;
+var totalPrice = price1 % price2;
+console.log(totalPrice)
+
+
+
+
+
+//{++,--}======================
+
+var price1 = 25;
+var price2 = 35;
+ price2 ++;
+console.log( price2)
+
+
+
+
+
+
+
+
+
+
+//sum---------string with math
+var price1 = "Imran";
+var price2 = "Hasmi";
+var price5 = "India"
+var result = price1 + ' ' + price2 + " " + price5 ;
+console.log(result)
+//result is = Imran Hasmi India
