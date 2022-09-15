@@ -45,8 +45,13 @@ myName = 'Rahman';
 
 // i can in call any letter to String [indexof('which is i call now')]//
 
-var promise = "I am the person, Who never success in any exam  ";
-console.log(promise.indexOf('in'));
-// when we write a word same we will find the call of letter ! but when we are write not same ! then result will -1
-var promise = "I am the person, Who never success in any exam ";
-console.log(promise.indexOf('In'));
+// var promise = "I am the person, Who never success in any exam  ";
+// console.log(promise.indexOf('in'));
+// // when we write a word same we will find the call of letter ! but when we are write not same ! then result will -1
+// var promise = "I am the person, Who never success in any exam ";
+// console.log(promise.indexOf('In'));
+
+//split is use for cut out of letter!
+var promise = "how are you Imran? I am fine also."
+console.log(promise.split(' '))
+//
