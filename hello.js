@@ -51,6 +51,11 @@ myName = 'Rahman';
 // var promise = "I am the person, Who never success in any exam ";
 // console.log(promise.indexOf('In'));
 
+
+
+
+
+
 //split is use for cut out of letter!
 var promise = "how are you Imran? I am fine also."
 console.log(promise.split(' '))
