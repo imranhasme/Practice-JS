@@ -192,7 +192,6 @@ console.log(result);
 
 
 
-
 // ceil and floor-----------ceil will be show the top number always[5.1000000 .......... 6] and floor will be show the low number [5.999999........ 5]
 
 
