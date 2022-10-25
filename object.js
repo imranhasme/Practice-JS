@@ -16,6 +16,7 @@ var phoneNo2 = student["phone"];
 var phoneNo3 = student[phonePropName];
 //update phone number-----------
 student2.phone = 548724;
+student2["phone"] = 333333333;
 console.log(phoneNo1);
 console.log(student2);
 
