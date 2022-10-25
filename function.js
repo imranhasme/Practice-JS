@@ -9,7 +9,7 @@ function doubleIt(num){
 var first = doubleIt(15)
 var secound = doubleIt(49)
 var total = first + secound ;
-// console.log(total);
+console.log(total);
 
 
 
